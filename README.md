@@ -1,0 +1,2 @@
+# AuthentKey
+Small Authentication library
